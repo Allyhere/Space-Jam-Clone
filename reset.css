@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  object-fit: contain;
+}
+
+body {
+  min-block-size: 100vh;
+  background-image: url("./assets/bg_stars.gif");
+}
+
+ul {
+  list-style-type: none;
+}
