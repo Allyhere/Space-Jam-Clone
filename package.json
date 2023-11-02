@@ -1,0 +1,31 @@
+{
+  "name": "space-jam",
+  "version": "1.0.0",
+  "description": "Clone of the 1996 space-jam site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allyhere/Space-Jam-Clone.git"
+  },
+  "keywords": [
+    "clone",
+    "html",
+    "css",
+    "space-jam",
+    "old",
+    "web"
+  ],
+  "author": "Camilo Micheletto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allyhere/Space-Jam-Clone/issues"
+  },
+  "homepage": "https://github.com/Allyhere/Space-Jam-Clone#readme",
+  "dependencies": {
+    "vite": "^4.5.0"
+  }
+}
